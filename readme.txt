@@ -5,3 +5,4 @@ add new string;
 add a function;
 
 create a new branch dev;
+creating a new branch is quick AND simple.
