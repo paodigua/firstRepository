@@ -6,3 +6,5 @@ add a function;
 
 create a new branch dev;
 creating a new branch is quick AND simple.
+
+git merge --no-ff -m "merge with no-ff" dev
