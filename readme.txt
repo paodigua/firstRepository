@@ -5,8 +5,4 @@ add new string;
 add a function;
 
 create a new branch dev;
-<<<<<<< HEAD
-creating a new branch is quick AND simple;
-=======
 creating a new branch is quick AND simple.
->>>>>>> feature1
