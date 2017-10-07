@@ -8,3 +8,5 @@ create a new branch dev;
 creating a new branch is quick AND simple.
 
 git merge --no-ff -m "merge with no-ff" dev
+
+git stash 将当前工作现场保存
